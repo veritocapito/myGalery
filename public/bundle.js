@@ -573,73 +573,73 @@ var dataImages = {
 		viaje2017: [
 			{
 				id: 81,
-				nombre: 'Oceania 1',
+				nombre: 'Viaje 2017 1',
 				descripcion:
-					'Oceania 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
-				ruta: './img/oceania/1.jpg',
+					'Viaje 2017 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+				ruta: './img/viaje2017/1.jpg',
 			},
 			{
 				id: 82,
-				nombre: 'Oceania 2',
+				nombre: 'Viaje 2017 2',
 				descripcion:
-					'Oceania 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
-				ruta: './img/oceania/2.jpg',
+					'Viaje 2017 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+				ruta: './img/viaje2017/2.jpg',
 			},
 			{
 				id: 83,
-				nombre: 'Oceania 3',
+				nombre: 'Viaje 2017 3',
 				descripcion:
-					'Oceania 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
-				ruta: './img/oceania/3.jpg',
+					'Viaje 2017 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+				ruta: './img/viaje2017/3.jpg',
 			},
 			{
 				id: 84,
-				nombre: 'Oceania 4',
+				nombre: 'Viaje 2017 4',
 				descripcion:
-					'Oceania 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
-				ruta: './img/oceania/4.jpg',
+					'Viaje 2017 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+				ruta: './img/viaje2017/4.jpg',
 			},
 			{
 				id: 85,
-				nombre: 'Oceania 5',
+				nombre: 'Viaje 2017 5',
 				descripcion:
-					'Oceania 5 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
-				ruta: './img/oceania/5.jpg',
+					'Viaje 2017 5 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+				ruta: './img/viaje2017/5.jpg',
 			},
 			{
 				id: 86,
-				nombre: 'Oceania 6',
+				nombre: 'Viaje 2017 6',
 				descripcion:
-					'Oceania 6 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
-				ruta: './img/oceania/6.jpg',
+					'Viaje 2017 6 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+				ruta: './img/viaje2017/6.jpg',
 			},
 			{
 				id: 87,
-				nombre: 'Oceania 7',
+				nombre: 'Viaje 2017 7',
 				descripcion:
-					'Oceania 7 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
-				ruta: './img/oceania/7.jpg',
+					'Viaje 2017 7 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+				ruta: './img/viaje2017/7.jpg',
 			},
 			{
 				id: 88,
-				nombre: 'Oceania 8',
+				nombre: 'Viaje 2017 8',
 				descripcion:
-					'Oceania 8 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
-				ruta: './img/oceania/8.jpg',
+					'Viaje 2017 8 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+				ruta: './img/viaje2017/8.jpg',
 			},
 			{
 				id: 89,
-				nombre: 'Oceania 9',
+				nombre: 'Viaje 2017 9',
 				descripcion:
-					'Oceania 9 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
-				ruta: './img/oceania/9.jpg',
+					'Viaje 2017 9 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+				ruta: './img/viaje2017/9.jpg',
 			},
 			{
 				id: 90,
-				nombre: 'Oceania 10',
+				nombre: 'Viaje 2017 10',
 				descripcion:
-					'Oceania 10 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
-				ruta: './img/oceania/10.jpg'
+					'Viaje 2017 10 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+				ruta: './img/viaje2017/10.jpg'
 			}
 		],
 		casamiento: [
@@ -806,7 +806,7 @@ const containerCategories$1 = document.getElementById('categories');
 categories.forEach( (category) => {
     const newCategory = document.createElement('a');
     const template = `
-        <img class="categoria__img" src="${category.portada}" alt="${category.nombre}" loading="lazy" />
+        <img class="categoria__img" src="${category.portada}" alt="${category.nombre}" />
         <div class="categoria__datos">
             <p class="categoria__nombre">${category.nombre}</p>
             <p class="categoria__numero-fotos">${category.cantidad} fotos</p>
@@ -815,28 +815,65 @@ categories.forEach( (category) => {
     newCategory.innerHTML = template;
     newCategory.classList.add('categoria');
     newCategory.href = '#';
-    newCategory.dataset.category = category.id;
+    newCategory.dataset.categoria = category.id;
 
-    containerCategories$1.appendChild(newCategory);
+    containerCategories$1.append(newCategory);
 });
 
+const galery$3 = document.getElementById('galery');
+
+const loadImage = (id, nombre, ruta, descripcion) => {
+    galery$3.querySelector('.galeria__imagen').src = ruta;
+    galery$3.querySelector('.galeria__imagen').dataset.idImagen = id;
+    galery$3.querySelector('.galeria__titulo').innerText = nombre;
+    galery$3.querySelector('.galeria__descripcion-imagen-activa').innerText = descripcion;
+};
+
 const containerCategories = document.getElementById('categories');
-const galery = document.getElementById('galery');
+const galery$2 = document.getElementById('galery');
 
 containerCategories.addEventListener( 'click', (e)=>{
     e.preventDefault();
     if(e.target.closest('a')){
-        galery.classList.add('galeria--active');
+        galery$2.classList.add('galeria--active');
         document.body.style.overflow = 'hidden';    
-        
-        //console.log(dataImages);
 
-        const activeCategory = e.target.dataset.category;
+        const activeCategory = e.target.closest('a').dataset.categoria;
         const images = dataImages.images[activeCategory];
-        console.log(images);
+        const carousel = galery$2.querySelector('.galeria__carousel-slides');
+        carousel.innerHTML = '';
 
+        const {id, nombre, ruta, descripcion} = images[0];
+        loadImage(id, nombre, ruta, descripcion);
+
+        images.forEach((image) => {
+            const slide =`
+            <a href="#" class="galeria__carousel-slide">
+                <img class="galeria__carousel-image" src="${image.ruta}" alt="" />
+            </a>
+            `;
+            console.log(image);
+            galery$2.querySelector('.galeria__carousel-slides').innerHTML += slide;
+        });
     }
 
+});
+
+const galery$1 = document.getElementById('galery');
+
+const closeGalery = () => {
+    galery$1.classList.remove('galeria--active');
+    document.body.style.overflow = '';
+};
+
+const galery = document.getElementById('galery');
+
+galery.addEventListener('click', (e) =>{
+    const button = e.target.closest('button');
+    
+    if(button?.dataset?.accion === 'cerrar-galeria'){
+        closeGalery();
+    }
 });
 
 console.log("Hola estoy aprendiendo!");
